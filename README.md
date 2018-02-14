@@ -1,0 +1,1 @@
+I forgot to initialize a READ.md so I'm just making this a text and pushing it up with the README
